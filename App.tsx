@@ -295,7 +295,7 @@ const App: React.FC = () => {
       <footer className="border-t border-slate-100 py-10 bg-white mt-auto">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p className="text-slate-400 text-[9px] font-bold uppercase tracking-[0.2em]">
-            © 2024 VISTA ALEGRE FAZENDA HOTEL.
+            © 2024 ESTÂNCIA VISTA ALEGRE.
           </p>
         </div>
       </footer>

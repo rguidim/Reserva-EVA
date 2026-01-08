@@ -15,7 +15,7 @@ const Logo: React.FC<LogoProps> = ({ className = "h-12", showText = true }) => {
       */}
       <img 
         src="https://img.freepik.com/vetores-premium/logotipo-da-fazenda-hotel-vista-alegre-com-palmeiras-e-sol_placeholder" 
-        alt="Logo Vista Alegre Fazenda Hotel" 
+        alt="Logo Vista Alegre" 
         className="h-full w-auto object-contain"
         onError={(e) => {
           // Fallback caso a imagem não carregue, usando um estilo similar ao logo enviado
@@ -33,7 +33,7 @@ const Logo: React.FC<LogoProps> = ({ className = "h-12", showText = true }) => {
             <span className="text-xl font-black tracking-tighter text-slate-900 leading-none">EVA</span>
             <span className="text-[10px] font-black bg-emerald-600 text-white px-1.5 py-0.5 rounded tracking-widest uppercase">Reserva</span>
           </div>
-          <span className="text-[10px] font-bold tracking-[0.05em] text-slate-400 uppercase">Vista Alegre Fazenda Hotel</span>
+          <span className="text-[10px] font-bold tracking-[0.05em] text-slate-400 uppercase">Estância Vista Alegre</span>
         </div>
       )}
     </div>
