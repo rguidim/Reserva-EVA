@@ -1,0 +1,7 @@
+{
+  "name": "EVA RESERVA - Reservas Inteligentes",
+  "description": "Plataforma de reservas de elite com foco em disponibilidade em tempo real e assistência personalizada por IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
